@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitor Lucas</h1>
 <h3 align="center">A passionate about technology and programming</h3>
 
-- 🌱 I’m currently learning **learning java with spring and javascript with react and angular.**
+- 🌱 I’m currently  **learning java with spring and javascript with react and angular.**
 
 - 💬 Ask me about **Majoring in Computer Science**
 
